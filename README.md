@@ -19,4 +19,5 @@ SS Latihan 4
 
 
 SS Flowchart
-https://github.com/galihperma/praktikum9/issues/6#issue-390509290
+![ssflowchart](https://user-images.githubusercontent.com/44311815/49915232-c198db00-fe27-11e8-80f7-b98b006dd996.png)
+
